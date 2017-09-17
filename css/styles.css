@@ -1,9 +1,14 @@
 @media (min-width: 0px) and (max-width: 700px){
-     body {	margin: 5em 17% 10em 17%;
+     body {margin: 5em 17% 10em 17%;
      }
  }
-@media (min-width: 700px){
+@media (min-width: 701px) and (max-width: 1500px){
      body {margin: 5em 27% 10 27%;
+     }
+ }
+
+ @media (min-width: 1501px) {
+     body {margin: 5em 37% 10 37%;
      }
  }
 
