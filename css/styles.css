@@ -3,12 +3,7 @@
      }
  }
 @media (min-width: 701px) and (max-width: 1500px){
-     body {margin: 5em 27% 10 27%;
-     }
- }
-
- @media (min-width: 1501px) {
-     body {margin: 5em 37% 10 37%;
+     body {margin: 5em 25% 10em 25%;
      }
  }
 
