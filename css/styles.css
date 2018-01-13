@@ -1,5 +1,5 @@
 @media (min-width: 0px) and (max-width: 499px){
-     body {margin: 3em 10% 1em 10%;
+     body {margin: 2em 10% 1em 10%;
      }
      .imgLg {
      	display: none;
@@ -7,7 +7,7 @@
  }
 
 @media (min-width: 500px) and (max-width: 799px){
-     body {margin: 3em 17% 1em 17%;
+     body {margin: 2em 17% 1em 17%;
      }
     .imgSm {
      	display: none;
@@ -15,7 +15,7 @@
  }
 
 @media (min-width: 800px){
-     body {margin: 3em 25% 1em 25%;
+     body {margin: 2em 25% 1em 25%;
      }
     .imgSm {
      	display: none;
